@@ -1,4 +1,5 @@
 ### Hi there 👋
+<hr>
 ![coding image fro git](https://user-images.githubusercontent.com/74004559/148689883-17662486-5bd8-43d8-8408-a7a1508a4fa3.jpg)
 
 
