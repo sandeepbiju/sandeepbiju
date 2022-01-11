@@ -11,8 +11,7 @@
 
 ---
 <!-- <img align="left" alt="Sandeep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sandeepbiju&show_icons=true&hide_border=true" /> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepbiju&theme=dark" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanndeepbiju&layout=compact)](https://github.com/sandeepbiju/github-readme-stats)
 
 <!--
 **sandeepbiju/sandeepbiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
