@@ -4,10 +4,10 @@
 ![coding image fro git](https://user-images.githubusercontent.com/74004559/148689883-17662486-5bd8-43d8-8408-a7a1508a4fa3.jpg)
 
 <hr>
+![](https://komarev.com/ghpvc/?username=sandeepbiju)
 
 <img align-"left" alt="Sandeep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sandeepbiju&show_icons=true&hide_border=true"/>
 
-![](https://komarev.com/ghpvc/?username=sandeepbiju)
 
 <!--
 **sandeepbiju/sandeepbiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
