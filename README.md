@@ -10,7 +10,8 @@
 ![](https://komarev.com/ghpvc/?username=sandeepbiju)
 
 ---
-<img align="left" alt="Sandeep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sandeepbiju&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="Sandeep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sandeepbiju&show_icons=true&hide_border=true" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepbiju&theme=dark" />
 
 
 <!--
