@@ -15,7 +15,7 @@
 <!-- ![Sandeep's github stats](https://github-readme-stats.vercel.app/api?username=sandeepbiju) -->
 
 
-<p align="center" style="position:relative"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepbiju" alt="sandeepbiju" /></a> </p>
+<p align="center" style="position:relative"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepbiju&theme=onedark" alt="sandeepbiju" /></a> </p>
 <br>
 <!--
 **sandeepbiju/sandeepbiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
