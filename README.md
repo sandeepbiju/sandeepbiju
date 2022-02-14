@@ -3,8 +3,13 @@
 <!-- <h3>🔭 I’m currently working as a Web Developer.</h3> -->
 
 <!-- ![coding image fro git](https://user-images.githubusercontent.com/74004559/148689883-17662486-5bd8-43d8-8408-a7a1508a4fa3.jpg) -->
-<p align="center"><img alt='sandeep' src="https://user-images.githubusercontent.com/74004559/149138113-29ce2527-3c73-4110-aaab-23f1f11a6a2b.gif"></p>
+<!-- <p align="center"><img alt='sandeep' src="https://user-images.githubusercontent.com/74004559/149138113-29ce2527-3c73-4110-aaab-23f1f11a6a2b.gif"></p> -->
+📈 *My GitHub Stats:*
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeepbiju&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepbiju&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=sandeepbiju)
