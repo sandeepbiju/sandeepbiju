@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Sandeep Biju
 =============================
 
-Web Developer and Server Assistant
+Software Engineer Analyst
 ----------------------------------
 
 I'm a Web Developer and Server Assistant, working in PHP-Laravel and knowledge in Python, VueJS, ReactJS and more on Web related stuffs.
