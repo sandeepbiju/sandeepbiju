@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋 My name is Sandeep Biju
+Hi 👋, My name is Sandeep Biju
 =============================
 
 Software Engineer Analyst
