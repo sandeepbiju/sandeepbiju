@@ -46,7 +46,8 @@ Software Engineer Analyst
 I'm a Web Developer and Server Assistant, working in PHP-Laravel and knowledge in Python, VueJS, ReactJS and more on Web related stuffs.
 
 * 🌍  I'm based in Kerala
-* 🖥️  See my portfolio at [MyPortfolio](http://sandeepbportfolio.herokuapp.com/)
+* 🖥️  See my portfolio at [MyPortfolio](https://sandeepbiju.github.io/portfolio/)
+<!-- * 🖥️  See my portfolio at [MyPortfolio](http://sandeepbportfolio.herokuapp.com/) -->
 * ✉️  You can contact me at [sandeepbiju123@gmail.com](mailto:sandeepbiju123@gmail.com)
 * 🧠  I'm learning a new framework
 
