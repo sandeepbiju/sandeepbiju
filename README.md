@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 Hi 👋, My name is Sandeep Biju
 =============================
 
-Software Engineer Analyst
+Senior Software Engineer
 ----------------------------------
 
-I'm a Web Developer and Server Assistant, working in PHP-Laravel and knowledge in Python, VueJS, ReactJS and more on Web related stuffs.
+I'm a Senior Developer and Server Engineer, working in PHP-Laravel and knowledge in Python, Node JS, VueJS, ReactJS, Next and more on Web related stuffs.
 
 * 🌍  I'm based in Kerala
 * 🖥️  See my portfolio at [MyPortfolio](https://sandeepbiju.github.io/portfolio/)
